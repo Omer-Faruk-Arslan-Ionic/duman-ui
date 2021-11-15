@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">duman</string>
+    <string name="title_activity_main">duman</string>
+    <string name="package_name">io.kstech.duman</string>
+    <string name="custom_url_scheme">io.kstech.duman</string>
+</resources>
